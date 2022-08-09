@@ -5,11 +5,11 @@ labels: "Bug 🐞"
 
 ---
 
-## Steps to reproduce
+## Steps to reproduce.
 
-### Expected behavior
+### Expected behavior.
 
-### Actual behavior
+### Actual behavior.
 
 ### Device & build information
 * Device: ?
